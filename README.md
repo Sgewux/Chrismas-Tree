@@ -3,4 +3,4 @@ Chrismas Tree program in C++
 
 ## How to run it?
 
-To run ir you just have to oppen the 'main.cpp' file in your favorite IDE, for this project i used codeblocks IDE
+To run it you can use g++ compiler or other compilers, otherwise you can use your favorite IDE, i used codeblocks
